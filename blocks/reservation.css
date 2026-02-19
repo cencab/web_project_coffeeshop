@@ -25,3 +25,9 @@
   margin-right: auto;
   margin-bottom: 80px;
 }
+
+.reservation__form {
+  margin: auto;
+  max-width: 385px;
+  width: 100%;
+}
